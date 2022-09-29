@@ -26,4 +26,7 @@ Landing Page Moderna Feita em React.js
 
 **Fique a vontade para fazer alterações.**
 
+## Site Online
+(https://react-nft-market.vercel.app/)
+
 ![image](https://user-images.githubusercontent.com/110235876/193093688-b6136067-e302-476c-9333-fe9e18e329f1.png)
